@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# What's this small project about?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I'm following the Stephen Grider's course on Udemy [React and Typescript: Build a Portfolio Project](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/) and this project is one of the tutorials.
+This project introduces the redux use getting a list of npm packages based on a given word.
+The only tiny personal touches were about redux state directory organisation removing the directory where only had enums and added it to "action-types" directory and added the possibility to add action-types files for specific action creators.
 
 ## Available Scripts
 
